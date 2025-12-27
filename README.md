@@ -105,6 +105,18 @@ Licensed under the Apache Licence, Version 2.0. See [LICENSE](LICENSE) for detai
 
 Not that the original engineers bothered with such things. It was 1962. Copyright was for books.
 
+## Related Projects
+
+If building an emulator for nuclear missile guidance computers has left you wanting more vintage military computing, might we suggest:
+
+- **[JOVIAL J73 LSP](https://github.com/Zaneham/jovial-lsp)** - Language server for the programming language that flies F-15s, B-52s, and AWACS. Same era as the D17B, considerably less plutonium.
+
+- **[CMS-2 LSP](https://github.com/Zaneham/cms2-lsp)** - Language server for the US Navy's tactical language. Powers Aegis cruisers, which are meant to intercept things the Minuteman might be sending at them. Full circle.
+
+- **[CORAL 66 LSP](https://github.com/Zaneham/coral66-lsp)** - The British Ministry of Defence's real-time language. Developed at the Royal Radar Establishment whilst, one imagines, maintaining a stiff upper lip about the whole nuclear deterrence situation. Powers Tornado aircraft. Features Crown Copyright.
+
+- **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** - NASA's Space Shuttle language. For when you want to go to space in a more peaceful, reusable manner. Comes back down gently. Usually.
+
 ## See Also
 
 - [Hackaday: The Computers of Voyager](https://hackaday.com/2024/05/13/the-computers-of-voyager/) - Similar vintage, better PR
