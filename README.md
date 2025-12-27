@@ -81,9 +81,9 @@ The US Air Force has been trying to replace them since the 1990s. It's... not go
 
 ## Why Does This Exist?
 
-Honestly? We were building language servers for obsolete programming languages (JOVIAL, CMS-2, HAL/S, CORAL 66) and got a bit carried away.
+Honestly? I was building language servers for obsolete programming languages (JOVIAL, CMS-2, HAL/S, CORAL 66) and got a bit carried away.
 
-Also, we find it genuinely remarkable that 400 nuclear weapons are controlled by a computer architecture that predates the Apollo Guidance Computer. Someone should probably document how it works before everyone who remembers forgets.
+Also, I found it genuinely remarkable that 400 nuclear weapons are controlled by a computer architecture that predates the Apollo Guidance Computer. Someone should probably document how it works before everyone who remembers forgets.
 
 ## Documentation Sources
 
