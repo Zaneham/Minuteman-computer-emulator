@@ -91,7 +91,7 @@ Also, I found it genuinely remarkable that 400 nuclear weapons are controlled by
 - **D17B Programming Manual Supplement** (Dec 1972) - Tulane MCUG
 - **D37C Conversion for General Purpose Applications** (Mar 1974) - AFIT Thesis
 
-All sourced from publicly available archives. We're not entirely mad.
+All sourced from publicly available archives. I am not entirely mad.
 
 ## Accuracy
 
@@ -115,7 +115,7 @@ If building an emulator for nuclear missile guidance computers has left you want
 
 - **[CORAL 66 LSP](https://github.com/Zaneham/coral66-lsp)** - The British Ministry of Defence's real-time language. Developed at the Royal Radar Establishment whilst, one imagines, maintaining a stiff upper lip about the whole nuclear deterrence situation. Powers Tornado aircraft. Features Crown Copyright.
 
-- **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** - NASA's Space Shuttle language. For when you want to go to space in a more peaceful, reusable manner. Comes back down gently. Usually.
+- **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** - NASA's Space Shuttle language. For when you want to go to space in a more peaceful, reusable manner. 
 
 ## See Also
 
