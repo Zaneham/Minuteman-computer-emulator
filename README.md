@@ -107,7 +107,7 @@ Not that the original engineers bothered with such things. It was 1962. Copyrigh
 
 ## Related Projects
 
-If building an emulator for nuclear missile guidance computers has left you wanting more vintage military computing, might we suggest:
+If building an emulator for nuclear missile guidance computers has left you wanting more vintage military computing, might I suggest:
 
 - **[JOVIAL J73 LSP](https://github.com/Zaneham/jovial-lsp)** - Language server for the programming language that flies F-15s, B-52s, and AWACS. Same era as the D17B, considerably less plutonium.
 
