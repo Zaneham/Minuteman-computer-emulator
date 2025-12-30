@@ -119,6 +119,12 @@ If building an emulator for nuclear missile guidance computers has left you want
 
 - **[HAL/S LSP](https://github.com/Zaneham/hals-lsp)** - NASA's Space Shuttle language. For when you want to go to space in a more peaceful, reusable manner.
 
+## Contact
+
+Found a bug? Have documentation I haven't seen? Stationed somewhere between Montana and Wyoming with opinions about rotating disc memory?
+
+zanehambly@gmail.com — I'll answer your email. I won't ask questions.
+
 ## See Also
 
 - [Hackaday: The Computers of Voyager](https://hackaday.com/2024/05/13/the-computers-of-voyager/) - Similar vintage, better PR
